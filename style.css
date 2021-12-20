@@ -1,0 +1,174 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&display=swap');
+
+html{
+    background-color: rgb(57, 119, 29);
+}
+
+.heading{
+    font-size: 300%;
+    font-weight: bolder;
+    font-family: 'Balsamiq Sans', cursive;
+    margin: 10% 0 0 2%; 
+    color: rgb(255, 255, 255);
+}
+
+.para{
+    font-size: 200%;
+    font-family: 'Staatliches', cursive;
+    color: rgb(255, 255, 255);
+}
+
+.section1{
+    text-align: center;
+}
+
+.image{
+    border-radius: 2rem; 
+    width: 350px;
+    margin: 1rem; 
+    border-color: rgb(255, 255, 255); 
+}
+.section2{
+    margin: 2% 0 0 0;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+.section3{
+    margin: 5% 0 0 5%;
+    text-align: center;
+}
+.image1{
+    border-radius: 50%;
+    width: 350px;
+    border-color: rgb(255, 255, 255);
+    margin: 2% 0 0 2%;
+}
+.heading2{
+    font-size: 200%;
+    font-weight: bold;
+    font-family: 'Bakbak One', cursive;
+    color: rgb(255, 255, 255);
+    margin: 2% 0 0 2%;
+}
+.para2{
+    font-size: 150%;
+    font-weight: normal;
+    color: rgb(255, 255, 255);
+    font-family: 'Fuzzy Bubbles', cursive;
+    margin: 1% 2% 2% 2%;
+}
+.button1{
+    margin: 2% 0 0 10%;
+    color: rgb(255, 255, 255);
+    border-color: rgb(57, 119, 29) ;
+    width: 100px;
+    text-align: right;
+}
+.para1{
+    color: rgb(57, 119, 29);
+    font-size: medium;
+    font-family: 'Fuzzy Bubbles', cursive;
+    border-color: rgb(255, 255, 255);
+    text-align: center;
+}
+.image2{
+    border-radius: 50%;
+    width: 350px;
+    border-color: rgb(255, 255, 255);
+    margin: 2% 0 0 10%;
+}
+.heading3{
+font-size: 200%;
+font-weight: bold;
+font-family: 'Bakbak One', cursive;
+color: rgb(255, 255, 255);
+margin: 2% 0 0 2%;
+}
+.para3{
+    font-size: 150%;
+    font-weight: normal;
+    color: rgb(255, 255, 255);
+    font-family: 'Fuzzy Bubbles', cursive;
+    margin: 1% 2% 2% 2%;
+}
+.button2{
+    margin: 2% 0 0 10%;
+    color: rgb(255, 255, 255);
+    border-color: rgb(57, 119, 29) ;
+    width: 100px;
+    text-align: right;
+}
+.para4{
+    color: rgb(57, 119, 29);
+    font-size: medium;
+    font-family: 'Fuzzy Bubbles', cursive;
+    border-color: rgb(255, 255, 255);
+    text-align: center;
+}
+.image3{
+    border-radius: 50%;
+    width: 350px;
+    border-color: rgb(255, 255, 255);
+    margin: 2% 0 0 10%;
+}
+.heading4{
+ font-size: 200%;
+ font-weight: bold;
+ font-family: 'Bakbak One', cursive;
+ color: rgb(255, 255, 255);
+ margin: 2% 0 0 2%;
+}
+.para5{
+    font-size: 150%;
+    font-weight: normal;
+    color: rgb(255, 255, 255);
+    font-family: 'Fuzzy Bubbles', cursive;
+    margin: 1% 2% 2% 2%;
+}
+.button3{
+    margin: 2% 50% 50% 50%;
+    color: rgb(255, 255, 255);
+    border-color: rgb(57, 119, 29) ;
+    width: 100px;
+    text-align: right;
+}
+.para6{
+    color: rgb(57, 119, 29);
+    font-size: medium;
+    font-family: 'Fuzzy Bubbles', cursive;
+    border-color: rgb(255, 255, 255);
+    text-align:center;
+}
+.body{
+    text-align: center;
+}
+.zaahu{
+    font-size: 150%;
+    font-weight: normal;
+    color: rgb(255, 255, 255);
+    font-family: 'Fuzzy Bubbles', cursive;
+    margin: 1% 2% 2% 2%;
+}
+.zaahu2{
+    font-size: 150%;
+    font-weight: normal;
+    color: rgb(255, 255, 255);
+    font-family: 'Fuzzy Bubbles', cursive;
+    margin: 1% 2% 2% 2%;
+}
+.zaahu3{
+    font-size: 150%;
+    font-weight: normal;
+    color: rgb(255, 255, 255);
+    font-family: 'Fuzzy Bubbles', cursive;
+    margin: 1% 2% 2% 2%;
+}
